@@ -21,11 +21,11 @@ PWD é uma solução de sandbox do Docker que possibilita a execução de contai
 
 2. Crie um fork desse repositório no Github.
 
-3. Clone seu repositório forked (não o original) para sua máquina 
+3. Clone seu repositório forked (não o original) para sua máquina
 ```bash
 git clone https://github.com/YOURUSERNAME/mock-api.git
 ```
-4. Accesse o diretório mock-api. 
+4. Accesse o diretório mock-api.
 ```bash
 cd mock-api
 ```
